@@ -1,0 +1,10 @@
+{
+    "markdownlint.config": {
+        "line-length": false,
+        "blanks-around-headings": false,
+        "single-h1": false,
+    }, 
+    "[markdown]": {
+        "editor.formatOnSave": true,
+    }
+}
